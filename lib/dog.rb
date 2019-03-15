@@ -13,5 +13,6 @@ class Dog
       puts dog.name
     end
   end 
+  def 
   @@all.clear
 end 
