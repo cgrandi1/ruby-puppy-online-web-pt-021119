@@ -13,5 +13,5 @@ class Dog
       puts dog.name
     end
   end 
-  @@all.clear_all
+  @@all.clear
 end 
