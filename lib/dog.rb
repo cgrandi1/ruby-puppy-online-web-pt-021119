@@ -15,4 +15,3 @@ class Dog
   end 
   @@all.clear_all
 end 
-end 
