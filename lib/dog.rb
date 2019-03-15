@@ -13,6 +13,7 @@ class Dog
       puts dog.name
     end
   end 
-  def 
-  @@all.clear
+  def self.clear_all
+    @@all.clear 
+  end 
 end 
